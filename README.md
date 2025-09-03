@@ -8,3 +8,9 @@ I'm currently learning **JavaScript** and **Angular**, and I have a growing inte
 📌 Based in **Bochum, Germany**  
 🔧 **Interests:** Game development · Fullstack Development · Cryptography  
 🎮 Check out some of my projects below – feedback is always welcome!
+
+Zablos Secret Sharer:
+https://github.com/Zablo13/Zablo-s-Secret-Sharer-V3
+
+Basket Brawl:
+https://github.com/Zablo13/Basket_Brawl_no_sound
