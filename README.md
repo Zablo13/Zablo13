@@ -14,3 +14,6 @@ https://github.com/Zablo13/Zablo-s-Secret-Sharer-V3
 
 Basket Brawl:
 https://github.com/Zablo13/Basket_Brawl_no_sound
+
+Brick Breaker:
+https://github.com/Zablo13/brickbreaker
