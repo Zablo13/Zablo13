@@ -8,11 +8,11 @@ I'm currently learning **JavaScript** and **Angular**, and I have a growing inte
 📌 Based in **Bochum, Germany**  
 🔧 **Interests:** Game development · Fullstack Development · Cryptography  
 🎮 Check out some of my projects below – feedback is always welcome!
-/  
-/ 
+
+
 Zablos Secret Sharer:
 https://github.com/Zablo13/Zablo-s-Secret-Sharer-V3
-/
+
 (S)plit, (C)ombine, (M)astercode, (O)TP, (W)ipe, Sa(V)e, (L)oad, (Q)uit? c  
 enter shares count 2 -> 99: 2  
 Code1:  ^4iIW²t6Ass2]H{3T§T,²*äEMP5IN§ä4Ütjß}CÄüoß9?DtT*n°S/ea7F?=n²S,<:gvud[äfl"v§q3FzyfW3F_k*/amqVRÖ&Dk1OA  
