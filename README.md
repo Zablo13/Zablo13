@@ -10,6 +10,7 @@ I'm currently learning **JavaScript** and **Angular**, and I have a growing inte
 🎮 Check out some of my projects below – feedback is always welcome!
 
   
+  
 Zablos Secret Sharer:
 https://github.com/Zablo13/Zablo-s-Secret-Sharer-V3
 
@@ -20,10 +21,11 @@ Code2:  He^nÜsÜUd#²l>bßkA0C:s!!meg.ni0$,ÄCMü:tÜßHüw2sCc<I"d²RVyq2+I/d4
 
 Message:  Die Gedanken sind frei...
 
+
   
 Basket Brawl:
 https://github.com/Zablo13/Basket_Brawl_no_sound
 
-  
+    
 Brick Breaker:
 https://github.com/Zablo13/brickbreaker
