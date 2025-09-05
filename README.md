@@ -2,6 +2,7 @@
  
 I'm a career changer currently retraining as an **Application Developer (Fachinformatiker für Anwendungsentwicklung)**.  
 With a background in tech support and a passion for creative coding, I enjoy building games and tools using **Python** and the **Godot engine**.
+I’m passionate about crafting Pixel Art with Aseprite, including my hand-pixeled profile picture.
  
 I'm currently learning **JavaScript** and **Angular**, and I have a growing interest in **cryptography** and secure software design.
  
