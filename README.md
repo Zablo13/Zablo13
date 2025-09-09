@@ -69,21 +69,6 @@ A classic brick breaker project made with Godot (or Python + Pygame, depending o
 - **Languages:** Python (comfortable), JavaScript (learning), SQL (basic)  
 - **Frameworks / Engines:** Godot · Aseprite (Pixel Art)  
 - **Dev tools:** Git · GitHub · VS Code  
-- **Focus areas:** Cryptography, secure software design, game development, fullstack  
+- **Focus areas:** Cryptography, game development, fullstack  
 
 ---
-
-## How to Run / Contribute
-
-Clone a repository:
-```bash
-git clone https://github.com/Zablo13/<repo-name>.git
-Godot projects: open the .godot file directly in the engine.
-
-Python projects: create a venv and run
-
-
-📫 Contact
-GitHub: Zablo13
-
-Location: Bochum, Germany
