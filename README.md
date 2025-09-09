@@ -51,8 +51,11 @@ Message: This Message is split in 3 parts
 
 ### 🏀 Basket Brawl
 **Repo:** [Basket_Brawl_no_sound](https://github.com/Zablo13/Basket_Brawl_no_sound)  
+My first project: a small arcade-style basketball game. I enjoy games like Smash Bros., Brawlhalla, or Rayman’s Kung Foot, and wanted to create a fun couch game for 1 vs 1 or 2 vs team matches.
+Built with Godot, focusing on mechanics and input handling.
+The code includes many comments in German, written to help teach my nephew.
 
-A small arcade-style basketball game (no sound). Built with Godot — focusing on mechanics and input handling.  
+With the knowledge I’ve gained since starting, I would set up the game with a different approach today — but it works fine as it is.
  
 
 ---
