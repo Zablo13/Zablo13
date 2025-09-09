@@ -17,7 +17,7 @@ Feedback is always welcome — check out some of my projects below!
 ## Projects
 
 ### 🔒 Zablos Secret Sharer
-**Repo:** [Zablo-s-Secret-Sharer-V3](https://github.com/Zablo13/ZablosSecretSharer)  
+**Repo:** [ZablosSecretSharer](https://github.com/Zablo13/ZablosSecretSharer)  
 
 A small cryptography utility that splits and recombines secret messages using one-time-pad style shares and helper functions.  
 
