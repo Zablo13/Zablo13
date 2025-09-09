@@ -32,7 +32,7 @@ Message: This Message is split in 3 parts <br>
 C1: use a random OTP with at least the message length <br>
 C2: HÄKFQ^u3>°}}MKä09T@^jKjwCü6veü1-;<nw..-eAVÄQy^MHs <br>
 C3: u6Ü"5xVFH2FF[0Rg[!A@§*,a>vLwgü<OZepz?pc~F^HÖ§M3°& <br><br>
-
+<br>
 -> recombine the message:<br>
 Message: This Message is split in 3 parts
 
