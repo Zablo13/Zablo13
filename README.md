@@ -28,11 +28,11 @@ A small cryptography utility that splits and recombines secret messages using on
 <br><br>
 (S)plit, (C)ombine, (M)astercode, (O)TP, (W)ipe, Sa(V)e, (L)oad, (Q)uit? s <br>
 enter shares count 2 -> 99: 3 <br>
-Message: This Message is split in 3 parts <br>
+Message: This Message is split in 3 parts <br><br>
 C1: use a random OTP with at least the message length <br>
 C2: HÄKFQ^u3>°}}MKä09T@^jKjwCü6veü1-;<nw..-eAVÄQy^MHs <br>
 C3: u6Ü"5xVFH2FF[0Rg[!A@§*,a>vLwgü<OZepz?pc~F^HÖ§M3°& <br><br>
-<br>
+
 -> recombine the message:<br>
 Message: This Message is split in 3 parts
 
