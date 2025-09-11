@@ -36,16 +36,19 @@ For future versions, I plan to implement user interfaces with Tkinter and argpar
 - Combine shares to recover the message  
 - OTP support
 <br><br>
-(S)plit, (C)ombine, (M)astercode, (O)TP, (W)ipe, Sa(V)e, (L)oad, (Q)uit? s <br>
-enter shares count 2 -> 99: 3 <br>
-Message: This Message is split in 3 parts <br><br>
-C1: use a random OTP with at least the message length <br>
-C2: HÄKFQ^u3>°}}MKä09T@^jKjwCü6veü1-;<nw..-eAVÄQy^MHs <br>
-C3: u6Ü"5xVFH2FF[0Rg[!A@§*,a>vLwgü<OZepz?pc~F^HÖ§M3°& <br><br>
-
--> recombine the message:<br>
-Message: This Message is split in 3 parts
-
+split message with OTP:  
+(S)plit, (C)ombine, (M)astercode, (O)TP, (W)ipe, (Q)uit? s  
+enter shares count 2 -> 99: 2  
+Message: short secret message  
+C1: i*S=#>Erbj8BYz<Eo:b"  
+  
+-> result:  
+C1: i*S=#>Erbj8BYz<Eo:b"  
+C2: A,Mß,]e<18WiX<re4k5ß
+  
+-> combine:  
+Message: short secret message  
+  
 
 ---
 
