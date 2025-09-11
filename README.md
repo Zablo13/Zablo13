@@ -23,9 +23,9 @@ A small cryptography utility that splits and recombines secret messages using on
  
 Since I was a child, I have been fascinated by secret codes. During my retraining as an application developer, I picked up this curiosity in my first Python project: a message encoder based on the One Time Pad.   
  
-Step by step, I learned important fundamentals – working with variables, control structures, functions, IO operations, string manipulations, system calls, error handling, and user input via input(). The menu runs in a loop within the main() function and allows messages to be entered as well as JSON files to be loaded or saved, which can then be encrypted or decrypted.     
+Step by step, I learned important fundamentals – working with variables, control structures, functions, IO operations, string manipulations, system calls, error handling, and user input via input(). The menu runs in a loop within the main() function and allows messages to be entered which can then be encrypted or decrypted.     
 <br>
-Since I discovered that math.random() does not produce true random numbers and would therefore be insecure, I instead rely on the secure secrets module.
+
    
 All in all, it is a small but very educational project, through which I learned a lot about Python – and which also practically demonstrates the principles of the One Time Pad.
    
