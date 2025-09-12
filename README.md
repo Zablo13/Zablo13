@@ -33,7 +33,7 @@ For future versions, I plan to implement user interfaces with Tkinter and argpar
 - Split a message into multiple shares  
 - Combine shares to recover the message  
 - OTP support
-<br><br>
+  
 split message with OTP:  
 (S)plit, (C)ombine, (M)astercode, (O)TP, (W)ipe, (Q)uit? s  
 enter shares count 2 -> 99: 2  
