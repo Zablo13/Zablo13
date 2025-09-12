@@ -24,9 +24,7 @@ A small cryptography utility that splits and recombines secret messages using on
 Since I was a child, I have been fascinated by secret codes. During my retraining as an application developer, I picked up this curiosity in my first Python project: a message encoder based on the One Time Pad.   
  
 Step by step, I learned important fundamentals – working with variables, control structures, functions, IO operations, string manipulations, system calls, error handling, and user input via input(). The menu runs in a loop within the main() function and allows messages to be entered which can then be encrypted or decrypted.     
-<br>
-
-   
+     
 All in all, it is a small but very educational project, through which I learned a lot about Python – and which also practically demonstrates the principles of the One Time Pad.
    
 For future versions, I plan to implement user interfaces with Tkinter and argparse and to revisit the project from an object-oriented perspective.
