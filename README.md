@@ -35,16 +35,16 @@ For future versions, I plan to implement user interfaces with Tkinter and argpar
 - OTP support
   
 split message with OTP:  
-(S)plit, (C)ombine, (M)astercode, (O)TP, (W)ipe, (Q)uit? s  
+(S)plit, (P)aste, (C)ombine, (M)astercode, (O)TP, (W)ipe, (Q)uit? s  
 enter shares count 2 -> 99: 2  
 Message: short secret message  
 C1: i*S=#>Erbj8BYz<Eo:b"  
   
--> result:  
+-> result are two shares:  
 C1: i*S=#>Erbj8BYz<Eo:b"  
 C2: A,Mß,]e<18WiX<re4k5ß
   
--> combine:  
+-> recombine the shares:  
 Message: short secret message  
   
 
