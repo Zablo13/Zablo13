@@ -34,11 +34,13 @@ For future versions, I plan to implement user interfaces with Tkinter and argpar
 - Combine shares to recover the message  
 - OTP support
   
-split message with OTP:  
+-> create OTP and split message with OTP:  
+OTP: i*S=#>Erbj8BYz<Eo:b"  
+
 (S)plit, (C)ombine, (M)astercode, (O)TP, (W)ipe, (Q)uit? s  
 enter shares count 2 -> 99: 2  
 Message: short secret message  
-C1: i*S=#>Erbj8BYz<Eo:b"  
+OTP: i*S=#>Erbj8BYz<Eo:b"  
   
 -> result are two shares:  
 C1/2: i*S=#>Erbj8BYz<Eo:b"  
