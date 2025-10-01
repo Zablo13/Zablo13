@@ -50,7 +50,7 @@ C2/2: A,Mß,]e<18WiX<re4k5ß
 Message: short secret message  
   
 ---
-Zablos Substitution Cipher
+### 🕵️ Zablos Substitution Cipher
 **Repo:** [ZablosSubstitutionCipher](https://github.com/Zablo13/Substitution-Cipher-Maker)  
 A playful text encryption tool for puzzle fans who are bored with Sudoku 😄.  
 Uses a random substitution cipher (A–Z letters are shuffled).  
@@ -60,9 +60,8 @@ Basic substitution.
 Spaces replaced with random symbols.  
 Doubled characters masked with a special marker.  
   
-Cipher mapping can be displayed for debugging or puzzle creation.  
+Cipher mapping can be displayed for debugging or puzzle creation.    
   
-Run the script, enter text, choose a difficulty, and get your encrypted output!  
 ---
 
 ### 🏀 Basket Brawl
