@@ -93,7 +93,7 @@ With the knowledge I’ve gained since starting, I would set up the game with a 
 ### 🧱 Brick Breaker
 **Repo:** [brickbreaker](https://github.com/Zablo13/brickbreaker)  
 
-A classic brick breaker project made with Godot (or Python + Pygame, depending on repo). Good demonstration of collision handling, level design, and simple physics.  
+A classic brick breaker project made with Godot. Good demonstration of collision handling, level design, and simple physics.  
 
 
 ---
