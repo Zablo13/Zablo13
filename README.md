@@ -50,6 +50,7 @@ C2/2: A,Mß,]e<18WiX<re4k5ß
 Message: short secret message  
   
 ---
+
 ### 🕵️ Zablos Substitution Cipher
 **Repo:** [ZablosSubstitutionCipher](https://github.com/Zablo13/Substitution-Cipher-Maker)  
 A playful text encryption tool for puzzle fans who are bored with Sudoku 😄.  
@@ -74,7 +75,9 @@ Supports digits 0–9 and letters A–Z.
 Interactive input with error handling for invalid characters.  
   
 👉 Example: 1011 in base 2 → 11 in decimal → B in base 36.  
+
 ---
+
 ### 🏀 Basket Brawl
 **Repo:** [Basket_Brawl_no_sound](https://github.com/Zablo13/Basket_Brawl_no_sound)  
 My first project: a small arcade-style basketball game. I enjoy games like Smash Bros., Brawlhalla, or Rayman’s Kung Foot, and wanted to create a fun couch game for 1 vs 1 or 2 vs team matches.
