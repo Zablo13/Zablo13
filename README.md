@@ -63,7 +63,17 @@ Doubled characters masked with a special marker.
 Cipher mapping can be displayed for debugging or puzzle creation.    
   
 ---
-
+### 🔢 Zablos-Zahlen-Zieher  
+**Repo:** [Zablos-Zahlen-Zieher](https://github.com/Zablo13/Zablos-Zahlen-Zieher)     
+A universal number system converter for bases 2 through 36.  
+Converts numbers from any base to decimal.  
+Converts decimal numbers to any target base.  
+Supports digits 0–9 and letters A–Z.  
+  
+Interactive input with error handling for invalid characters.  
+  
+👉 Example: 1011 in base 2 → 11 in decimal → B in base 36.  
+---
 ### 🏀 Basket Brawl
 **Repo:** [Basket_Brawl_no_sound](https://github.com/Zablo13/Basket_Brawl_no_sound)  
 My first project: a small arcade-style basketball game. I enjoy games like Smash Bros., Brawlhalla, or Rayman’s Kung Foot, and wanted to create a fun couch game for 1 vs 1 or 2 vs team matches.
