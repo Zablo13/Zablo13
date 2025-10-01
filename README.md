@@ -12,7 +12,7 @@ I also craft pixel art with **Aseprite** — including my hand-pixeled profile p
 
 Feedback is always welcome — check out some of my projects below!
 
----
+---  
 
 ## Projects
 
