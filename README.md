@@ -62,7 +62,8 @@ Doubled characters masked with a special marker.
   
 Cipher mapping can be displayed for debugging or puzzle creation.    
   
----
+--- 
+
 ### 🔢 Zablos-Zahlen-Zieher  
 **Repo:** [Zablos-Zahlen-Zieher](https://github.com/Zablo13/Zablos-Zahlen-Zieher)     
 A universal number system converter for bases 2 through 36.  
