@@ -61,8 +61,10 @@ Level 1: Basic 1:1 substitution.
 Level 2: + Space substitution.  
 Level 3: + Doubled characters masked behind dedicated repeat previous sign. XX, YY -> XI, YI   
        
+
 Enter difficulty 1-3: 3  
-Encrypted text: S+CA+EHCAWY+CFBEX+Y+CSBUYNCVFEQIBEGKAGKAEVM+NEZM-PI+VN+MAW+    
+Encrypted text: S+CA+EHCAWY+CFBEX+Y+CSBUYNCVFEQIBEGKAGKAEVM+NEZM-PI+VN+MAW+   
+ 
 --- 
 
 ### 🔢 Zablos-Zahlen-Zieher  
