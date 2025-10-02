@@ -54,15 +54,15 @@ Message: short secret message
 ### 🕵️ Zablos Substitution Cipher
 **Repo:** [ZablosSubstitutionCipher](https://github.com/Zablo13/Substitution-Cipher-Maker)  
 A playful text encryption tool for puzzle fans who are bored with Sudoku 😄.  
-Uses a random substitution cipher (A–Z letters are shuffled).  
+Uses a random substitution cipher (A–Z letters and "+" "-" are shuffled).  
 
 Supports 3 difficulty levels:  
-Basic substitution.  
-Spaces replaced with random symbols.  
-Doubled characters masked with a special marker.  
-  
-Cipher mapping can be displayed for debugging or puzzle creation.    
-  
+Level 1: Basic 1:1 substitution.  
+Level 2: + Space substitution.  
+Level 3: + Doubled characters masked behind dedicated repeat previous sign. XX, YY -> XI, YI   
+       
+Enter difficulty 1-3: 3  
+Encrypted text: S+CA+EHCAWY+CFBEX+Y+CSBUYNCVFEQIBEGKAGKAEVM+NEZM-PI+VN+MAW+    
 --- 
 
 ### 🔢 Zablos-Zahlen-Zieher  
