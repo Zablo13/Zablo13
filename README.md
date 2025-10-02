@@ -43,8 +43,8 @@ Message: short secret message
 OTP: i*S=#>Erbj8BYz<Eo:b"  
   
 -> result are two shares:  
-C1/2: i*S=#>Erbj8BYz<Eo:b"  
-C2/2: A,Mß,]e<18WiX<re4k5ß
+Share1/2: i*S=#>Erbj8BYz<Eo:b"  
+Share2/2: A,Mß,]e<18WiX<re4k5ß
   
 -> recombine the shares:  
 Message: short secret message  
